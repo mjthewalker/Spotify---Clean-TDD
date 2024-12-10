@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1095155244422",
+    "project_id": "spotify-d7682",
+    "storage_bucket": "spotify-d7682.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095155244422:android:3f6d0b0d2dae3929772007",
+        "android_client_info": {
+          "package_name": "com.example.spotify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUAFDcWDTbVDvEMiWN0hlzSF_BCivuyd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095155244422:android:6ebe3372f6596342772007",
+        "android_client_info": {
+          "package_name": "com.spotify.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUAFDcWDTbVDvEMiWN0hlzSF_BCivuyd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
